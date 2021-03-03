@@ -1,10 +1,18 @@
-# Human User Guide Template
-This is a template to help you create your own human user guide. The goal of a human user guide is to make working together and collaboration with colleagues easier, faster. The focus for this user guide is on the workplace. As such, many of the questions are geared towards information that would be pertinent to your colleagues.
 
 ## About me
 
 ### What are some honest, unfiltered things about you?
 * *Tell us about things that others may not easily discern about you.*
+
+I'm one of those people with way too many hobbies.  
+  The good news: I'm never bored.  I don't think I've been bored for a minute of a day in my life.  
+  The bad news: I never have the time that I'd to be able to spend on all of them.
+  
+Outside of work, my primary hobby is sailing.  I keep a boat in Seattle and love nothing more than being on the water on a warm day.
+
+Gaming is not one of my hobbies.  On the surface that seems odd for the line of work that I'm in.  But even though I don't enjoy playing games, I'm fascinated by the technology and the platforms required to build one.  
+
+My favorite person is a 6 year old Alaskan Malamute.
 
 ### When are you available?
 * *Are you a morning person? Do you prefer evenings? What time zone do you work in VS live in, etc...*
