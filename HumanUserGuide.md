@@ -5,8 +5,8 @@
 * *Tell us about things that others may not easily discern about you.*
 
 I'm one of those people with way too many hobbies.  
-  The good news: I'm never bored.  I don't think I've been bored for a minute of a day in my life.  
-  The bad news: I never have the time that I'd to be able to spend on all of them.
+*  The good news: I'm never bored.  I don't think I've been bored for a minute of a day in my life.  
+*  The bad news: I never have the time that I'd to be able to spend on all of them.
   
 Outside of work, my primary hobby is sailing.  I keep a boat in Seattle and love nothing more than being on the water on a warm day.
 
