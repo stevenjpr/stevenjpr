@@ -16,9 +16,17 @@ My favorite person is a 6 year old Alaskan Malamute.
 
 ### When are you available?
 * *Are you a morning person? Do you prefer evenings? What time zone do you work in VS live in, etc...*
+I work fairly traditional hours.  My time zone is PST.  I start between 8 and 9 and try to be done around 5:30 or 6, depending on what's going on that day.
 
 ### What drives you nuts?
 * *Tell us about your pet peeves. These are things that put you in a bad mood.*
+
+* Being interrupted or talked over drives me crazy.  This happens much too often at Microsoft, in my opinion.  If someone is talking it's respectful to let them finish before jumping in.
+* Lack of preparation for meetings also can frustrate me.  Examples: 
+1. Someone comes in late and then asks for the meeting to be restarted to catch them up
+2. People frequently come to things like spec reviews without having read the spec.  The meeting then becomes less efficient as that person bounces around through the document.
+
+Speaking of meetings: I prefer meetings with a set agenda.  If there's no agenda and people wander, I start to feel like I'm wasting my time, when then makes me anxious!
 
 ### What are your quirks?
 * *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
