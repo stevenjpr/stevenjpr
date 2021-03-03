@@ -36,6 +36,10 @@ Speaking of meetings: I prefer meetings with a set agenda.  If there's no agenda
 ### What are some things that people might misunderstand about you that you should clarify?
 * *Think of some labels people may apply to you. Tell us why those are wrong.*
 
+I tend to be a generally quiet person, which I've been told is sometimes interpreted as either I'm not interested or disengaged.  I am paying attention and am engaged.  I guess it just doesn't always show.
+
+Ever since the work from home thing started last year, I've tended to not join the various social Teams meetings.  This doesn't mean that I'm not friendly or that I don't like people.  I'm just a classic blue person (from Insights from training) that gets re-energized by quiet instead of social gatherings.  I've found that the social time I get befor and after meetings throughout the day is enough for me.
+
 ## About my colleagues
 
 ### What qualities do you particularly value in your colleagues?
