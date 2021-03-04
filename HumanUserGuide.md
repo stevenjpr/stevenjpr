@@ -10,7 +10,7 @@ I'm one of those people with way too many hobbies.
   
 Outside of work, my primary hobby is sailing.  I keep a boat in Seattle and love nothing more than being on the water on a warm day.
 
-Gaming is not one of my hobbies.  On the surface that seems odd for the line of work that I'm in, but even though I don't enjoy playing games, I'm fascinated by the technology and the platforms required to build one.  
+Gaming is not one of my hobbies.  On the surface that seems odd for the line of work that I'm in, but even though I don't enjoy playing games, I'm fascinated by the technology and the platforms required to build one.  Side note: I'm tried to get hooked on gaming several times, but it just doesn't stick with me.
 
 My favorite person is a 6 year old Alaskan Malamute.
 
