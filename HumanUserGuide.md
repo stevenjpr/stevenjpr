@@ -4,9 +4,9 @@
 ### What are some honest, unfiltered things about you?
 * *Tell us about things that others may not easily discern about you.*
 
-I'm one of those people with way too many hobbies.  
-*  The good news: I'm never bored.  I don't think I've been bored for a minute of a day in my life.  
-*  The bad news: I never have the time that I'd like to be able to spend on all of them.
+I'm one of those people with way too many hobbies.  The result is:
+*  Good news: I'm never bored.  I don't think I've been bored for a minute of a day in my life.  
+*  Bad news: I never have the time that I'd like to be able to spend on all of them.
   
 Outside of work, my primary hobby is sailing.  I keep a boat in Seattle and love nothing more than being on the water on a warm day.
 
