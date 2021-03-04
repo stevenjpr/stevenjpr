@@ -52,6 +52,8 @@ Ever since the work from home thing started last year, I've tended to not join t
 ### What do you wish colleagues didn’t do?
 * *Think of the people you avoid at work. What are their characteristics?*
 
+I'm wary of "long talkers".  Have you ever been in one of those meetings where one person monopilized the conversation for the entire meeting, yet you walk out wondering "what did he actually say"?  On a somewhat related note, I'll also avoid someone whom I know will take 1/2 hour of my time talking about non-work stuff.
+
 ### How can people earn an extra gold star with you?
 * *Think of the time when a colleague puts a smile on your face. What did they just do?*
 
