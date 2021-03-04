@@ -22,7 +22,7 @@ I prefer to work fairly traditional hours.  My time zone is PST.  I start betwee
 ### What drives you nuts?
 * *Tell us about your pet peeves. These are things that put you in a bad mood.*
 
-Being interrupted or talked over drives me crazy.  This happens much too often at Microsoft, in my opinion.  If someone is talking it's respectful to let them finish before jumping in.
+Being interrupted or talked over is my hot button.  This happens much too often at Microsoft, in my opinion.  If someone is talking it's respectful to let them finish before jumping in.
 
 Lack of preparation for meetings also can frustrate me.  Examples: 
 1. Someone comes in late and then asks for the meeting to be restarted to catch them up.
@@ -32,6 +32,10 @@ Speaking of meetings: I prefer meetings with a set agenda.  If there's no agenda
 
 ### What are your quirks?
 * *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
+
+I'm not particulary good at thinking on my feet or having quick responses.  When it comes to making decisions and dealing with conflict I do much better if I have time to think things through and decide on my approach.  If you stop by my office for a quick question, there may be a period of time in which I look like I'm drawing a blank.
+
+Over the years, I have come to prefer more direct communication, whether it be positive or negative.  Best to just get right to the point rather than take some indirect route to the issue at hand.
 
 ### What are some things that people might misunderstand about you that you should clarify?
 * *Think of some labels people may apply to you. Tell us why those are wrong.*
