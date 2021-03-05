@@ -85,4 +85,4 @@ Demonstrate the value that your request will have to the team, the customer or t
 ### How do you like to get feedback?
 * *Tell us the modes, means, timing, approach, and level of detail you like to see others employ when giving you feedback, and why that's so.*
 
-Direct, timely feedback is certainly best.  Second hand feedback is a drag because it often leaves you wondering without the opportunity to ask clarifying questions.
+Direct, timely feedback is certainly best.  Second hand feedback is frustrating because it often leaves you wondering without the opportunity to ask clarifying questions.
