@@ -59,7 +59,7 @@ I'm wary of "long talkers".  Have you ever been in one of those meetings where o
 ### How can people earn an extra gold star with you?
 * *Think of the time when a colleague puts a smile on your face. What did they just do?*
 
-Again, follow through comes to mind here.  Earlier this week I emailed a dev saying that I need to report on the status of Feature X tomorrow, what are your thoughts on whether you can commit.  His response was, "it's already done, here's the PR".  Wonderful!
+Again, follow through comes to mind here.  Earlier this week I emailed a dev saying that I needed to report on the status of Feature X tomorrow, what are your thoughts on whether we can commit?  His response was, "it's already done, here's the PR".  Wonderful!
 
 ## About my interactions
 
