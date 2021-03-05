@@ -8,9 +8,9 @@ I'm one of those people with way too many hobbies.  The result is:
 *  Good news: I'm never bored.  I don't think I've been bored for a minute of a day in my life.  
 *  Bad news: I never have the time that I'd like to be able to spend on all of them.
   
-Outside of work, my primary hobby is sailing.  I keep a boat in Seattle and love nothing more than being on the water on a warm day.
+Outside of work, my primary hobby is sailing.  I keep a boat in Seattle and love nothing more than being on the water on a warm day.  I also race boats once a week on Lake Washington (when covid allows).
 
-Gaming is not one of my hobbies.  On the surface that seems odd for the line of work that I'm in, but even though I don't enjoy playing games, I'm fascinated by the technology and the platforms required to build one.  Side note: I'm tried to get hooked on gaming several times, but it just doesn't stick with me.
+Gaming is not one of my hobbies.  On the surface that seems odd for the line of work that I'm in, but even though I don't enjoy playing games, I'm fascinated by the technology and the platforms required to build one.  I love the precision required to maintain consistent frame-to-frame performance.  Side note: I'm tried to get hooked on gaming several times, but it just doesn't stick with me.
 
 My favorite person is a 6 year old Alaskan Malamute.
 
@@ -26,21 +26,21 @@ Being interrupted or talked over is my hot button.  This happens much too often 
 
 Lack of preparation for meetings also can frustrate me.  Examples: 
 1. Someone comes in late and then asks for the meeting to be restarted to catch them up.
-2. People frequently come to things like spec reviews without having read the spec.  The meeting then becomes less efficient as that person bounces around through the document expecting everyone else to stay with them.
+2. People frequently come to spec review meetings without having read the spec.  The meeting then becomes less efficient as that person bounces around the document expecting everyone else to stay with them.
 
-Speaking of meetings: I prefer meetings with a set agenda.  If there's no agenda and people wander, I start to feel like I'm wasting my time, when then makes me anxious!
+Speaking of meetings: I prefer meetings with a set agenda.  If there's no agenda and people wander, I start to feel like I'm wasting my time, which then makes me squirmy and anxious!
 
 ### What are your quirks?
 * *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
 
-I'm not particulary good at thinking on my feet or having quick responses.  When it comes to making decisions and dealing with conflict I do much better if I have time to think things through and decide on my approach.  If you stop by my office for a quick question, there may be a period of time in which I look like I'm drawing a blank.
+I'm not particulary good at thinking on my feet or having quick responses.  When it comes to making decisions and dealing with conflict I do much better if I have time to think things through and decide on my approach.  If you stop by my office and ask me a quick question, there may be a period of time in which I look like I'm drawing a blank.
 
 Over the years, I have come to prefer more direct communication, whether it be positive or negative.  Best to just get right to the point rather than take some indirect route to the issue at hand.
 
 ### What are some things that people might misunderstand about you that you should clarify?
 * *Think of some labels people may apply to you. Tell us why those are wrong.*
 
-I tend to be a generally quiet person, which I've been told is sometimes interpreted as either I'm not interested or disengaged.  I am paying attention and am engaged.  I guess it just doesn't always show.
+I tend to be a generally quiet person, which I've been told is sometimes interpreted as either I'm not interested or I'm disengaged.  I am paying attention and am engaged.  I guess it just doesn't always show.
 
 Ever since the work from home thing started last year, I've tended to not join the various social Teams meetings.  This doesn't mean that I'm not friendly or that I don't like people.  I'm just a classic blue person (from Insights from training) that gets re-energized by quiet instead of social gatherings.  I've found that the social time I get before and after meetings throughout the day is enough for me.
 
@@ -52,10 +52,12 @@ Ever since the work from home thing started last year, I've tended to not join t
 ### What do you wish colleagues didn’t do?
 * *Think of the people you avoid at work. What are their characteristics?*
 
-I'm wary of "long talkers".  Have you ever been in one of those meetings where one person monopilized the conversation for the entire meeting, yet you walk out wondering "what did he actually say"?  On a somewhat related note, I'll also avoid someone whom I know will take 1/2 hour of my time talking about non-work stuff.
+I'm wary of "long talkers".  Have you ever been in one of those meetings where one person monopilized the conversation for the entire meeting, yet you walk out wondering "what did they actually say"?  On a somewhat related note, I'll also avoid someone whom I know will take 1/2 hour of my time talking about non-work stuff during the workday.
 
 ### How can people earn an extra gold star with you?
 * *Think of the time when a colleague puts a smile on your face. What did they just do?*
+
+Again, follow through comes to mind here.  Earlier this week I emailed a dev saying that I need to report on the status of Feature X tomorrow, what are your thoughts on whether you can commit.  His response was, "it's already done, here's the PR".  Wonderful!
 
 ## About my interactions
 
