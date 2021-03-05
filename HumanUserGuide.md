@@ -66,16 +66,23 @@ Again, follow through comes to mind here.  Earlier this week I emailed a dev say
 ### How do you coach people to do their best work and develop their talents?
 * *Tell us how you like to help others.*
 
-My approach to coaching is leading by example.  I'll concretely show a more junior PM how I've approached a similar situation in the past, for example.
+My approach to coaching is to lead by example.  I'll concretely show a more junior PM how I've approached a similar situation in the past, for example.
 
 ### What’s the best way to communicate with you?
 * *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
 
+I don't have much of a preference here.  All the standard methods - in person chat, text, email..  I have no strong aversion to either.
+
 ### What’s the best way to convince you to do something?
 * *Tell us how we can change your mind, once it’s made up.*
+
+Demonstrate the value that your request will have to the team, the customer or to myself.
+
 
 ### How do you like to give feedback?
 * *Tell us the modes, means, timing, approach, and level of detail you like to employ when giving feedback, and why that's so.*
 
 ### How do you like to get feedback?
 * *Tell us the modes, means, timing, approach, and level of detail you like to see others employ when giving you feedback, and why that's so.*
+
+Direct, timely feedback is certainly best.  Second hand feedback is a drag because it often leaves you wondering without the opportunity to ask clarifying questions.
