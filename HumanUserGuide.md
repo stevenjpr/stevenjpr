@@ -66,6 +66,8 @@ Again, follow through comes to mind here.  Earlier this week I emailed a dev say
 ### How do you coach people to do their best work and develop their talents?
 * *Tell us how you like to help others.*
 
+My approach to coaching is leading by example.  I'll concretely show a more junior PM how I've approached a similar situation in the past, for example.
+
 ### What’s the best way to communicate with you?
 * *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
 
