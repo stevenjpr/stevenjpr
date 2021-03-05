@@ -49,6 +49,8 @@ Ever since the work from home thing started last year, I've tended to not join t
 ### What qualities do you particularly value in your colleagues?
 * *Tell us what your ideal colleague would look like. These are the people you normally seek out at work.*
 
+I really value people that follow through and do what they say they're going to do, on time.  Good quality work is important.  There's a huge difference in my mind between somebody that does it right the first time, vs. those that get ~80% of the way and then stop.  Those people needed to be pulled across the finish line.
+
 ### What do you wish colleagues didn’t do?
 * *Think of the people you avoid at work. What are their characteristics?*
 
